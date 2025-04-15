@@ -54,10 +54,10 @@
   "stack": "heroku-22",
   "buildpacks": [
   {
-    "url": "https://github.com/HashNuke/heroku-buildpack-elixir.git"
+    "url": "https://github.com/HashNuke/heroku-buildpack-elixir"
   },
   {
-    "url": "https://github.com/HashNuke/heroku-buildpack-phoenix.git"
+    "url": "https://github.com/your-username/heroku-buildpack-phoenix-static"
   }
 ]
 }
